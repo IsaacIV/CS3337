@@ -18,7 +18,7 @@
         <a class="li_css_a" href="mybooks.php">My Books</a>
     </li>
     <li class="li_css">
-        <a class="li_css_a" href="profile">Profile</a>
+        <a class="li_css_a" href="profile.php">Profile</a>
     </li>
     <li class="li_css">
         <a class="li_css_a" href="">
